@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Barnaba Farski</h1>
 <h3 align="center">A passionate Student from poland</h3>
 
-- 🔭 I’m currently **starting my journey as Data analist**
+ - I’m currently learning **SQL,Python, Power BI**
 
-- 🌱 I’m currently learning **SQL,Python, Power BI**
+- How to reach me **BarnabaFarski@gmail.com**
 
-- 📫 How to reach me **BarnabaFarski@gmail.com**
-
-- ⚡ Fun fact **when I was 14-15 years old, I made simple games in Unity 3D in C#**
+- ⚡ **When I have time, I make simple games in C# for my own satisfaction**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
